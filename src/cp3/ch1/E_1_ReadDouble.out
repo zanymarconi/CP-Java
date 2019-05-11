@@ -1,0 +1,12 @@
+Approach 2: Redirect input and output using terminal:
+	1. javac Main.java
+	2. java Main < input.in > output.out
+Working Directory = /Users/prakhardhama/CP-Java
+
+P: Reads and prints double w/ 3 decimals and min field width of 7.
+  1.473
+ 15.325
+123.000
+123456.700
+Infinity
+NaN
