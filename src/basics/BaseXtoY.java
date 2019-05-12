@@ -20,8 +20,8 @@ public class BaseXtoY {
             inp = sc.next();
             Y = sc.nextInt();
 
-            Long temp = Long.parseLong(inp, X);
-            out = Long.toString(temp, Y);
+            BigInteger temp = new BigInteger(inp, X);
+            out = temp.toString(Y);
             System.out.println(X+" = "+inp+"\n"+Y+" = "+out.toUpperCase()+"\n");
         }
         sc.close();
