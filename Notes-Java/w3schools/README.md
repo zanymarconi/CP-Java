@@ -1,6 +1,3 @@
-## gfg
----
-
 ## w3schools
 ---
 ![image](https://drive.google.com/uc?export=view&id=1WH1BxorlQYMHW--6z5vFXCyyxDSkYAtB)
